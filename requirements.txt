@@ -1,0 +1,7 @@
+requests
+pymongo
+python-dotenv
+prefect
+fastmcp
+streamlit
+tenacity

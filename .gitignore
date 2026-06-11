@@ -1,0 +1,8 @@
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente
+.env
+.env.*
